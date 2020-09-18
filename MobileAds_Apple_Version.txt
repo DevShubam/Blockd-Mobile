@@ -37607,6 +37607,7 @@ cdn.static-cnt.bid
 cdn.static.biqudu.la
 cdn.static.zdbb.net
 cdn.statics.live.spongecell.com
+cs672.wac.edgecastcdn.net
 cdn.steambets.net
 cdn.steelhousemedia.com
 cdn.steepto.com
@@ -65257,12 +65258,6 @@ goodadvert.ru
 gooddata.com
 goodsp.admicro.vn
 google-analytics.com
-google.com
-google.com.tr
-google.com.vn
-google.de
-google.ie
-google.nl
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
