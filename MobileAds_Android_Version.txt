@@ -65257,12 +65257,7 @@ goodadvert.ru
 gooddata.com
 goodsp.admicro.vn
 google-analytics.com
-google.com
-google.com.tr
-google.com.vn
-google.de
-google.ie
-google.nl
+cs672.wac.edgecastcdn.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
