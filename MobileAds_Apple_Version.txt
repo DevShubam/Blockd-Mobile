@@ -42003,7 +42003,6 @@ cnn.allpolitics.savethis.clickability.com
 cnn.bounceexchange.com
 cnn.career.printthis.clickability.com
 cnn.cm
-cnn.com
 cnn.health.printthis.clickability.com
 cnn.law.printthis.clickability.com
 cnn.sdk.beemray.com
