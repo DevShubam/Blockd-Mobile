@@ -1,1 +1,7 @@
 # This list is not ready for use yet, will be alot better in time to come!
+ads.mopub.com
+ads.nexage.com
+vungle.com
+moatads.com
+tenjin.io
+voodoo-analytics.io
