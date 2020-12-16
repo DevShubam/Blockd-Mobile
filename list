@@ -15,30 +15,13 @@
 !
 ! Title: Blockd - Mobile
 ! Description: Blocks Mobile ads, trackers and malware
-! Entries: 131 500+
-! Version: 2020.12.11
+! Entries: 131 000+
+! Version: 2020.12.16
 ! Maintainer: Shub [Twitter: @Shub16_]
 ! Contact: Email: shubamsharmatech@gmail.com| Discord: Shub#3279 | Reddit: u/Shubam16 | Twitter: @Shub16_
 ! Extra Credits: StevenBlack for maintaining an awesome list, everyone who helped by opening tickets / messeging me on reddit or discord.
 ! Additional Information: Thank you for using this!
 ! Other Projects: https://gitlab.com/Shub_/blockd-lists/-/blob/master/README.md
-!---------------------------------------
-! LOCAL HOST
-!---------------------------------------
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 !----------------------------------------
 ! LIST STARTS BELOW
 !----------------------------------------
@@ -24890,8 +24873,6 @@ ampmetrics.popsci.com
 ampnkoudpnd.bid
 ampower.me
 ampproject.marfeelrev.com
-ampproject.net
-ampproject.org
 amprobe.ugc.bazaarvoice.com
 amprtc.media.net
 amps.yoyi.com.cn
@@ -33084,7 +33065,6 @@ aws.apex.go.sonobi.com
 aws.asia.qualtrics.com
 aws.au1.qualtrics.com
 aws.banner-server.fyber.com
-aws.com
 aws.go.sonobi.com
 aws.icemining.ca
 aws.images.intellitxt.com
@@ -56837,7 +56817,6 @@ crowdcontrol.lotame.com
 crowdfactory.marketo.com
 crowdgravity.com
 crowdignite.com
-crowdin.net
 crowdscience.com
 crowdskout.com
 crowdstreet.pxf.io
@@ -88318,7 +88297,6 @@ lli.org
 llink.site
 llivedotcom.2cnt.net
 llivedotcomtest.2cnt.net
-llnwd.net
 llnwop-eu.cedexis.com
 lloogg.com
 lm.licenses.adobe.com
