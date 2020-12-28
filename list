@@ -16,7 +16,7 @@
 ! Title: Blockd - Mobile
 ! Description: Blocks Mobile ads, trackers and malware
 ! Entries: 131 000+
-! Version: 2020.12.16
+! Version: 2020.12.28
 ! Maintainer: Shub [Twitter: @Shub16_]
 ! Contact: Email: shubamsharmatech@gmail.com| Discord: Shub#3279 | Reddit: u/Shubam16 | Twitter: @Shub16_
 ! Extra Credits: StevenBlack for maintaining an awesome list, everyone who helped by opening tickets / messeging me on reddit or discord.
@@ -102655,7 +102655,6 @@ s.yieldmo.com
 s.yjtag.jp
 s.yomob.com.cn
 s.youmi.net
-s.youtube.com  # Blocking this will interfere with video watching history
 s.zeroredirect.com
 s.zeroredirect1.com
 s.zeroredirect2.com
@@ -102798,7 +102797,6 @@ s2.socialannex.com
 s2.statcounter.com
 s2.tracemyip.org
 s2.video.doubleclick.net
-s2.youtube.com
 s20.cnzz.com
 s20.sitemeter.com
 s20dh7e9dh.com
@@ -130883,7 +130881,6 @@ youtu.cm.admaster.com.cn
 youtube.112.2o7.net
 youtube.2cnt.net
 youtube.cleverads.vn
-youtube.com
 youtubologia.it
 youtuhe.com
 youxi.baidu.com
