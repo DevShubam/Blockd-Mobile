@@ -15,8 +15,8 @@
 !
 ! Title: Blockd - Mobile
 ! Description: Blocks Mobile ads, trackers and malware
-! Entries: 131 000+
-! Version: 2021.01.10
+! Entries: 130 000+
+! Version: 2021.01.21
 ! Maintainer: Shub [Twitter: @Shub16_]
 ! Contact: Email: shubamsharmatech@gmail.com| Discord: Shub#3279 | Reddit: u/Shubam16 | Twitter: @Shub16_
 ! Extra Credits:
@@ -99,7 +99,6 @@
 00author.com
 00bloggers.ru
 00fun.com
-00fun.com  #[Tracking.Cookie]
 00go.com
 00it.com
 00sexus.com
@@ -16155,7 +16154,6 @@ ads.advertig.com
 ads.advertise.net
 ads.advertisespace.com
 ads.adviva.net
-ads.adviva.net  #[Tracking.Cookie]
 ads.advolume.com
 ads.adwitserver.com
 ads.adworldnetwork.com
@@ -16530,7 +16528,6 @@ ads.consignia-online.com
 ads.consolemul.com
 ads.consumeraffairs.com
 ads.contactmusic.com
-ads.contactmusic.com  #[AdvertPro]
 ads.contentabc.com
 ads.contentabc.net
 ads.contextweb.com
@@ -16676,7 +16673,6 @@ ads.ecircles.com
 ads.economist.com
 ads.ecosalon.com
 ads.ecrush.com
-ads.ecrush.com  #[AdvertPro]
 ads.edbindex.dk
 ads.edipresse.pl
 ads.edirectme.com
@@ -17030,7 +17026,6 @@ ads.idg.com.pl
 ads.idgworldexpo.com
 ads.iforex.com
 ads.ign.com
-ads.ign.com  #[Tracking.Cookie]
 ads.ihaberadserver.com
 ads.ihispano.com
 ads.iknownetwork.com
@@ -25400,7 +25395,6 @@ analytics.crewpencil.com
 analytics.crynix.com
 analytics.cryptonight.net
 analytics.cxense.com
-analytics.cyberghostvpn.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.datasavannah.com
@@ -28441,7 +28435,6 @@ api.whizzco.com
 api.wienchain.com
 api.winred.com
 api.wipmania.com
-api.wipmania.com  #[affects WorldIP]
 api.wonderpush.com
 api.woolypooly.com
 api.wootric.com
@@ -29530,7 +29523,6 @@ applovinres.edgekey.net
 applvn.com
 applyads.com
 applyfix.tech
-applytics.nordvpn.com
 appm.offerstrack.net
 appmachine.com
 appmarketm.g2afse.com
@@ -92953,8 +92945,6 @@ myway.com
 myweb4u.net
 mywebsearch.com
 mywebstats.com.au
-mywot.com
-mywot.net
 mywristwraps.com
 myyearbookdigital.checkm8.com
 myyserviceupdater.com
@@ -124057,8 +124047,6 @@ www.myway.com
 www.myweb4u.net
 www.mywebsearch.com
 www.mywebstats.org
-www.mywot.com
-www.mywot.net
 www.mzgov.net
 www.n-mobile.net
 www.n149adserv.com
