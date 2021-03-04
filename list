@@ -16,7 +16,7 @@
 ! Title: Blockd - Mobile
 ! Description: Blocks Mobile ads, trackers and malware
 ! Entries: 100 000+
-! Version: 2021.03.03
+! Version: 2021.03.04
 ! Maintainer: Shub [Twitter: @Shub16_]
 ! Contact: Email: shubamsharmatech@gmail.com| Discord: Shub#3279 | Reddit: u/Shubam16 | Twitter: @Shub16_
 ! Other Projects: https://gitlab.com/Shub_/blockd-lists/-/blob/master/README.md
@@ -29406,7 +29406,6 @@ applanga.com
 apple-protection.info
 apple-support-online.s3-website-us-west-2.amazonaws.com
 apple.accounts-support.club
-apple.com
 apple.com--------scanner.bid
 apple.com------support.host
 apple.com-----scanner.club
